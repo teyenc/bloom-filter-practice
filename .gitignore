@@ -1,0 +1,5 @@
+.idea/
+cmake-build-debug/
+*.ninja*
+*.cmake
+Testing/Temporary/
